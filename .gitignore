@@ -8,4 +8,6 @@ logs/
 .git/
 dist/
 build/
+cpa_std.egg-info/
+.pytest_cache/
 
