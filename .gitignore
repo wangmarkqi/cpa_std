@@ -8,6 +8,8 @@ logs/
 *.pdf
 *.xlsx
 *.docx
+*.jpg
+*.png
 .git/
 dist/
 build/
