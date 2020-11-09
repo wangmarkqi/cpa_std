@@ -7,14 +7,14 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setuptools.setup(
     name='cpa_std',
     version='0.03',
-    description='根据企业会计准则规范会计科目名称',
+    description='根据各类文件提取财务等关键信息',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Wang Qi',
     author_email='wangmarkqi@gmail.com',
     url='https://github.com/wangmarkqi/cpa_std',
     packages=setuptools.find_packages(),
-    keywords=['会计', '科目', '规范'],
+    keywords=['会计', '科目', '规范',"车险","保单"],
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",

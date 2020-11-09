@@ -5,6 +5,9 @@ logs/
 *.exe
 *.rar
 *.zip
+*.pdf
+*.xlsx
+*.docx
 .git/
 dist/
 build/
